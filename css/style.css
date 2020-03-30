@@ -1,0 +1,23 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+  margin-bottom: 0;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #e0dede;
+  padding: 30px;
+}
+
+ul li a {
+  font-size: 18px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.social-media,
+a {
+  font-size: 30px;
+}
